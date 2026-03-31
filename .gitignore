@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+README.md
+c_drive_cleaner.py
