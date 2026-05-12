@@ -244,7 +244,7 @@ class CDriveCleaner:
 def main():
     """主函数"""
     print("=" * 60)
-    print("   🧹 C盘空间清理工具 v1.0")
+    print("   🧹 C盘空间清理工具 v2.0")
     print("=" * 60)
     
     cleaner = CDriveCleaner()
